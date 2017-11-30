@@ -22,3 +22,4 @@ double MyPow(double a, double b)
 {
 return exp(b * log(a));
 }
+/**/
