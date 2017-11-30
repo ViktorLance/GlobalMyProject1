@@ -30,3 +30,6 @@ int MyPow(int a, int b)
   return res;
 }
 
+
+=======
+>>>>>>> develop
